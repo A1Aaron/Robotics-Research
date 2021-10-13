@@ -1,2 +1,2 @@
-# Robotics-Reseach
-Jabref Document File of Resessrch Papers
+# Robotics-Research
+Jabref Document File of Research Papers
